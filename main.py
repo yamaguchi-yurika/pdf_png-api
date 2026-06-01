@@ -11,7 +11,7 @@ app = FastAPI()
 
 from pathlib import Path
 
-# Poppler（後で対応するので一旦そのままでOK）
+# Poppler（後で対応するので一旦そのままでOK ）
 POPPLER = "pdftocairo"
 
 # ベースディレクトリ（Azure内の作業場所）
